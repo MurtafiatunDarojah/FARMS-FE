@@ -1,0 +1,55 @@
+.ant-card-head {
+    background: #EAE1C9;
+    color: #252524;
+  }
+  
+  .ant-card-body {
+    background: linear-gradient(to right, #cfb694, #D1913C);
+  }
+  
+  th,
+  td {
+    padding: 5px !important;
+  }
+  
+  .form-item-ts {
+    margin-bottom: 0px !important;
+  }
+  
+  .ant-empty {
+    position: absolute;
+    left: 0;
+    right: 0;
+  }
+  
+  .ant-radio-wrapper {
+    margin-right: 0px;
+  }
+  
+  .scroller {
+    overflow: auto;
+  }
+  
+  #theadp {
+    font-size: 12px !important;
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 1 !important;
+  }
+  
+  .custom-table .ant-table-thead>tr>th {
+    background-color: #FAC20D;
+    /* Ganti warna latar belakang head tabel */
+    color: #000000;
+    /* Ganti warna teks pada head tabel */
+    font-weight: bold;
+  }
+  
+  .custom-table .ant-table-content {
+    font-size: 10px;
+    font-weight: bold;
+  }
+  
+  .custom-table-cost .ant-table-tbody>tr:last-child>td {
+    font-size: 14px;
+  }
